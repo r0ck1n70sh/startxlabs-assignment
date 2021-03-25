@@ -55,5 +55,5 @@ You are given with T number of strings. You need to sort the strings according t
   ````
   
 ## Run Code  
-> You can clone this repository and, run cmd  
+You can clone this repository and, run cmd  
 `$ node problem < test.txt`
